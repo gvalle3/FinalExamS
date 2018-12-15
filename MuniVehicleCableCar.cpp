@@ -18,7 +18,7 @@ public:
     totalFares = tF;
   }
   
-  ~MuniVehicle();
+ // ~MuniVehicle();
   
   void setTotalFares(int tF){
     totalFares = tF;
